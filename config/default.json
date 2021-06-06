@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://dbroshan:roshan@chatbot.n7mio.mongodb.net/dbroshan?retryWrites=true&w=majority"
+}
